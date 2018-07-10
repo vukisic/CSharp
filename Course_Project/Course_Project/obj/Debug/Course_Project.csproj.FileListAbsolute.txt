@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\bin\Debug\Course_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\bin\Debug\Course_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\bin\Debug\Course_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Course_Project\Course_Project\obj\Debug\Course_Project.pdb
