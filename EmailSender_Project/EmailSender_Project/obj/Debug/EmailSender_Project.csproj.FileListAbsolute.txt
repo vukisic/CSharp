@@ -1,0 +1,11 @@
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\bin\Debug\EmailSender_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\bin\Debug\EmailSender_Project.exe
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\bin\Debug\EmailSender_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.exe
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\EmailSender_Project\EmailSender_Project\obj\Debug\EmailSender_Project.Form2.resources
