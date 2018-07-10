@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\bin\Debug\MP3Player_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\bin\Debug\MP3Player_Project.exe
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\bin\Debug\MP3Player_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.exe
+C:\Users\Vuk\source\repos\WinForms\MP3Player_Project\MP3Player_Project\obj\Debug\MP3Player_Project.pdb
