@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Vuk\source\repos\WinForms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
