@@ -1,0 +1,9 @@
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\bin\Debug\Chiper_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\bin\Debug\Chiper_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\bin\Debug\Chiper_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Chiper_Project\Chiper_Project\obj\Debug\Chiper_Project.pdb
