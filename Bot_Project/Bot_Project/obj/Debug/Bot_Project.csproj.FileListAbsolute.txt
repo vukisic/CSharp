@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\bin\Debug\Bot_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\bin\Debug\Bot_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\bin\Debug\Bot_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Bot_Project\Bot_Project\obj\Debug\Bot_Project.csprojResolveAssemblyReference.cache
