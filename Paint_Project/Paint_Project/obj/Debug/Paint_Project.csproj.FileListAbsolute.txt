@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\bin\Debug\Paint_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\bin\Debug\Paint_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\bin\Debug\Paint_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Paint_Project\Paint_Project\obj\Debug\Paint_Project.pdb
