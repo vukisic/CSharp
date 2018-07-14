@@ -1,0 +1,12 @@
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\bin\Debug\Zipping_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\bin\Debug\Zipping_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\bin\Debug\Zipping_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\bin\Debug\Ionic.Zip.dll
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.csproj.CopyComplete
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Zipping_Project\Zipping_Project\obj\Debug\Zipping_Project.pdb
