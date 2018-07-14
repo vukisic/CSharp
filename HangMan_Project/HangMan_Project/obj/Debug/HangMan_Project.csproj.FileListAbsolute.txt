@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\bin\Debug\HangMan_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\bin\Debug\HangMan_Project.exe
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\bin\Debug\HangMan_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.exe
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\HangMan_Project\HangMan_Project\obj\Debug\HangMan_Project.csprojResolveAssemblyReference.cache

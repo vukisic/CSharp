@@ -1,0 +1,7 @@
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\bin\Debug\30_ReadingXML_NOFORM.exe.config
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\bin\Debug\30_ReadingXML_NOFORM.exe
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\bin\Debug\30_ReadingXML_NOFORM.pdb
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\obj\Debug\30_ReadingXML_NOFORM.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\obj\Debug\30_ReadingXML_NOFORM.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\obj\Debug\30_ReadingXML_NOFORM.exe
+C:\Users\Vuk\source\repos\WinForms\30_ReadingXML_NOFORM\30_ReadingXML_NOFORM\obj\Debug\30_ReadingXML_NOFORM.pdb
