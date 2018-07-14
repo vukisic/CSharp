@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <Name>Vuk</Name>
+    <Address>Vlade Danilovica 1/1</Address>
+    <Email>visicev@gmail.com</Email>
+    <Birthday>125223595780000000</Birthday>
+    <Notes>Me!</Notes>
+  </Person>
+  <Person>
+    <Name>Danilo</Name>
+    <Address>Vrbas</Address>
+    <Email>dakenzi97@gmail.com</Email>
+    <Birthday>131760627200676547</Birthday>
+    <Notes>No Birthday</Notes>
+  </Person>
+</People>

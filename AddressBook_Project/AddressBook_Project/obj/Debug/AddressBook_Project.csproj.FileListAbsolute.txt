@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\bin\Debug\AddressBook_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\bin\Debug\AddressBook_Project.exe
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\bin\Debug\AddressBook_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.exe
+C:\Users\Vuk\source\repos\WinForms\AddressBook_Project\AddressBook_Project\obj\Debug\AddressBook_Project.pdb
