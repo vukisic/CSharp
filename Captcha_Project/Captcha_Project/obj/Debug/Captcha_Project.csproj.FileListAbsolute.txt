@@ -1,0 +1,10 @@
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\bin\Debug\Captcha_Project.exe.config
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\bin\Debug\Captcha_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\bin\Debug\Captcha_Project.pdb
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.Form1.resources
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.Properties.Resources.resources
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.csproj.GenerateResource.cache
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.exe
+C:\Users\Vuk\source\repos\WinForms\Captcha_Project\Captcha_Project\obj\Debug\Captcha_Project.pdb
