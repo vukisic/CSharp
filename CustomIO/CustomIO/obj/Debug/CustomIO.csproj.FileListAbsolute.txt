@@ -1,0 +1,7 @@
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\bin\Debug\CustomIO.exe.config
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\bin\Debug\CustomIO.exe
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\bin\Debug\CustomIO.pdb
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\obj\Debug\CustomIO.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\obj\Debug\CustomIO.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\obj\Debug\CustomIO.exe
+C:\Users\Vuk\source\repos\WinForms\CustomIO\CustomIO\obj\Debug\CustomIO.pdb
