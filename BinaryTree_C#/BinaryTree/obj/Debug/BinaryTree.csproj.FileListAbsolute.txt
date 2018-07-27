@@ -1,0 +1,7 @@
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Vuk\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
