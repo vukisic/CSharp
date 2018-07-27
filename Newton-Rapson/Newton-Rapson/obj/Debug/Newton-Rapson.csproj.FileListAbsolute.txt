@@ -1,0 +1,7 @@
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\bin\Debug\Newton-Rapson.exe.config
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\bin\Debug\Newton-Rapson.exe
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\bin\Debug\Newton-Rapson.pdb
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\obj\Debug\Newton-Rapson.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\obj\Debug\Newton-Rapson.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\obj\Debug\Newton-Rapson.exe
+C:\Users\Vuk\Desktop\OOP\C#\Newton-Rapson\Newton-Rapson\obj\Debug\Newton-Rapson.pdb
