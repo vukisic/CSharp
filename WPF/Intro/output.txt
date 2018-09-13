@@ -1,0 +1,18 @@
+Description: Metal Wheel
+Status: In Production
+Revision: 1.2
+PartNumber: 2617
+Material: Metal
+WorkCentres: 
+	Weld
+	Assembly
+	Laser
+	Saw
+	Drill
+Length: 1.5
+Mass: 200
+Finish: Painted
+PurchaseInfo: Not Rubber
+SupplierName: Metals&Co
+SupplierCode: 14524
+Note: Urgent!
