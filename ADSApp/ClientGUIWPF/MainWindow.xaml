@@ -1,0 +1,26 @@
+﻿<Window x:Class="ClientGUIWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientGUIWPF"
+        mc:Ignorable="d"
+        Icon="/Icons/login.png"
+        Title="MainWindow" Height="360" Width="450">
+    <Grid>
+        <Border Padding="10">
+            <StackPanel>
+                <Image Width="70">
+                    <Image.Source>
+                        <BitmapImage DecodePixelWidth="100" UriSource="/Icons/user.png" />
+                    </Image.Source>
+                </Image>
+                <TextBlock  Text="Username" HorizontalAlignment="Center"  FontSize="25" Margin="0 20 0 10"/>
+                <TextBox x:Name="UsernameTB" TextAlignment="Center" Margin="50 0 50 0" Padding="2"/>
+                <TextBlock  Text="Password" HorizontalAlignment="Center"  FontSize="25" Margin="0 30 0 10"/>
+                <PasswordBox x:Name="PasswordTB"  HorizontalContentAlignment="Center" Margin="50 0 50 0" Padding="2"/>
+                <Button x:Name="LogInBTN" Click="LogInBTN_Click" FontSize="15" Content="LogIn" Margin="70 20 70 0" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

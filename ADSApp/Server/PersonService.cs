@@ -16,6 +16,8 @@ namespace Server
     {
         static string ConnectionString = ConfigurationManager.AppSettings["connectionString"];
         static SqlConnection sql;
+        static string path= "../../../log.txt";
+        static string nl = Environment.NewLine;
         public void AddPerson(string username, Person person)
         {
             if (UserService.IsAuthentificated(username))
@@ -26,6 +28,7 @@ namespace Server
                     {
                         Console.WriteLine(DateTime.Now.ToString());
                         Console.WriteLine("\t AddPerson Id={0} -> {1}", person.Id, username);
+                        File.AppendAllText(path, String.Format("\t"+DateTime.Now.ToString()+" AddPerson Id={0} -> {1}"+nl, person.Id, username));
                         DataBaseAdapter.Persons[person.Id] = person;
 
                         string sqlcommand = "Insert into Person ([FirstName],[LastName],[PublicId]) values (@first,@last,@public)";
@@ -70,6 +73,7 @@ namespace Server
                 {
                     Console.WriteLine(DateTime.Now.ToString());
                     Console.WriteLine("\t PersonsToList -> {0}", username);
+                    File.AppendAllText(path, String.Format("\t"+DateTime.Now.ToString()+" PersonsToList -> {0}"+nl, username));
                     List<Person> list = new List<Person>();
                     list = DataBaseAdapter.Persons.Values.ToList();
 
@@ -96,6 +100,7 @@ namespace Server
                 {
                     Console.WriteLine(DateTime.Now.ToString());
                     Console.WriteLine("\t PrintPersonsInJSON -> {0}", username);
+                    File.AppendAllText(path, String.Format("\t"+DateTime.Now.ToString()+" PrintPersonsInJSON -> {0}"+nl, username));
                     List<Person> list = new List<Person>();
                     list = DataBaseAdapter.Persons.Values.ToList();
 
@@ -125,6 +130,7 @@ namespace Server
                     {
                         Console.WriteLine(DateTime.Now.ToString());
                         Console.WriteLine("\t RemovePerson Id={0} -> {1}", id, username);
+                        File.AppendAllText(path, String.Format("\t"+DateTime.Now.ToString()+" RemovePerson Id={0} -> {1}"+nl, id, username));
                         DataBaseAdapter.Persons.Remove(id);
 
                         string sqlcommand = "Delete from Person where PublicId=@public";
