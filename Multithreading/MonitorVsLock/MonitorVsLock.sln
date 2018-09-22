@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorVsLock", "MonitorVsLock\MonitorVsLock.csproj", "{B7B61913-40B1-469B-8ED2-924B0332EB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B61913-40B1-469B-8ED2-924B0332EB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B61913-40B1-469B-8ED2-924B0332EB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B61913-40B1-469B-8ED2-924B0332EB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B61913-40B1-469B-8ED2-924B0332EB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B7992A-2255-434C-B404-B1301CB9BBFC}
+	EndGlobalSection
+EndGlobal
