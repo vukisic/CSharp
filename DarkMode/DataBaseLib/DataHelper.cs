@@ -16,7 +16,7 @@ namespace DataBaseLib
         {
             using (IDbConnection cnn=new SQLiteConnection(ConnectionString()))
             {
-                var output = cnn.Query<SubjectModel>("select * from Subject", new DynamicParameters());
+                var output = cnn.Query<SubjectModel>("select * from Subject order by SubjectName", new DynamicParameters());
                 return output.ToList();
             }
         }
