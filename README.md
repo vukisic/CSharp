@@ -1,2 +1,2 @@
 # CSharp
-CSharp Projects
+CSharp Mini-Projects
